@@ -23,7 +23,7 @@ Movie Pot is an app that allows users to browse movies from the [The Movie Datab
 
 ### App Walkthough GIF
 
-<img src="https://github.com/hmanalai/Movie-Pot/blob/master/appDemo.gif" width=250><br>
+![](https://github.com/hmanalai/Movie-Pot/blob/master/appDemo.gif)
 
 ### Notes
 Building the Movie Pot app went smoothly without encountering any serious technical issues. 
