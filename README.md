@@ -20,7 +20,7 @@ Movie Pot is an app that allows users to browse movies from the [The Movie Datab
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
-![]()
+![](https://github.com/hmanalai/Movie-Pot/blob/master/appDemo2.gif)
 
 ### Notes
  No challenges. 
